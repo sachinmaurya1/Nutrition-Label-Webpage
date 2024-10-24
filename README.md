@@ -24,9 +24,6 @@ This HTML project represents a **Nutrition Facts** label with detailed informati
 To run this project locally:
 
 1. **Clone or download the project files**:
-   ```
-   git clone <repository-url>
-   ```
    
 2. **Open the HTML file**:
    Navigate to the downloaded folder and open the `index.html` file in any modern web browser. The CSS is linked externally in the `styles.css` file.
